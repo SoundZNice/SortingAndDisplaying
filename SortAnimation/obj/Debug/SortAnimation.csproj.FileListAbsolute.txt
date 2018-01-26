@@ -1,0 +1,11 @@
+I:\Codes\SortAnimation\SortAnimation\bin\Debug\SortAnimation.exe.config
+I:\Codes\SortAnimation\SortAnimation\bin\Debug\SortAnimation.exe
+I:\Codes\SortAnimation\SortAnimation\bin\Debug\SortAnimation.pdb
+I:\Codes\SortAnimation\SortAnimation\obj\Debug\SortAnimation.csprojResolveAssemblyReference.cache
+I:\Codes\SortAnimation\SortAnimation\obj\Debug\SortAnimation.Form1.resources
+I:\Codes\SortAnimation\SortAnimation\obj\Debug\SortAnimation.Properties.Resources.resources
+I:\Codes\SortAnimation\SortAnimation\obj\Debug\SortAnimation.csproj.GenerateResource.Cache
+I:\Codes\SortAnimation\SortAnimation\obj\Debug\SortAnimation.exe
+I:\Codes\SortAnimation\SortAnimation\obj\Debug\SortAnimation.pdb
+I:\Codes\SortAnimation\SortAnimation\bin\Debug\SortAlgorythms.dll
+I:\Codes\SortAnimation\SortAnimation\bin\Debug\SortAlgorythms.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAnimation", "SortAnimation\SortAnimation.csproj", "{EEDBE134-85E3-493B-8FD4-D0095A063C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAlgorythms", "SortAlgorythms\SortAlgorythms.csproj", "{46026D28-D561-45AA-B66C-363736B0534E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryToWpf", "TryToWpf\TryToWpf.csproj", "{9FC852CF-89B7-4327-A6CE-55801EA15F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEDBE134-85E3-493B-8FD4-D0095A063C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDBE134-85E3-493B-8FD4-D0095A063C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDBE134-85E3-493B-8FD4-D0095A063C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDBE134-85E3-493B-8FD4-D0095A063C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46026D28-D561-45AA-B66C-363736B0534E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46026D28-D561-45AA-B66C-363736B0534E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46026D28-D561-45AA-B66C-363736B0534E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46026D28-D561-45AA-B66C-363736B0534E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC852CF-89B7-4327-A6CE-55801EA15F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC852CF-89B7-4327-A6CE-55801EA15F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC852CF-89B7-4327-A6CE-55801EA15F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC852CF-89B7-4327-A6CE-55801EA15F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

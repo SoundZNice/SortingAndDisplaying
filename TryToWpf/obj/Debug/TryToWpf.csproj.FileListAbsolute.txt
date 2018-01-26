@@ -1,0 +1,14 @@
+I:\Codes\SortAnimation\TryToWpf\bin\Debug\TryToWpf.exe.config
+I:\Codes\SortAnimation\TryToWpf\bin\Debug\TryToWpf.exe
+I:\Codes\SortAnimation\TryToWpf\bin\Debug\TryToWpf.pdb
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf.csprojResolveAssemblyReference.cache
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\MainWindow.g.cs
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\App.g.cs
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf_MarkupCompile.cache
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf_MarkupCompile.lref
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\MainWindow.baml
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf.g.resources
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf.Properties.Resources.resources
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf.csproj.GenerateResource.Cache
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf.exe
+I:\Codes\SortAnimation\TryToWpf\obj\Debug\TryToWpf.pdb

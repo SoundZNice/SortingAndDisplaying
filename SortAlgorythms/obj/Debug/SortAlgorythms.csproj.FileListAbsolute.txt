@@ -1,0 +1,5 @@
+I:\Codes\SortAnimation\SortAlgorythms\bin\Debug\SortAlgorythms.dll
+I:\Codes\SortAnimation\SortAlgorythms\bin\Debug\SortAlgorythms.pdb
+I:\Codes\SortAnimation\SortAlgorythms\obj\Debug\SortAlgorythms.csprojResolveAssemblyReference.cache
+I:\Codes\SortAnimation\SortAlgorythms\obj\Debug\SortAlgorythms.dll
+I:\Codes\SortAnimation\SortAlgorythms\obj\Debug\SortAlgorythms.pdb
